@@ -12,6 +12,7 @@
     ],
     "require": {
         "fxp/composer-asset-plugin": "^1.2",
-        "zendframework/zend-component-installer": "^0.3.0"
+        "zendframework/zend-component-installer": "^0.3.0",
+        "robloach/component-installer": "^0.2.3"
     }
 }
