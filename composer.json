@@ -1,0 +1,17 @@
+{
+    "name": "blazoncms/composer-installers",
+    "description": "Global Composer Meta Package for needed plugins for BlazonCMS",
+    "type": "library",
+    "homepage": "https://github.com/blazoncms/composer-installers",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Westin Shafer",
+            "email": "shafer_w2002@yahoo.com"
+        }
+    ],
+    "require": {
+        "fxp/composer-asset-plugin": "^1.2",
+        "zendframework/zend-component-installer": "^0.3.0"
+    }
+}
